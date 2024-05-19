@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on berita by deuxly</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://berita.eu.org/posts/</link>
     <description>Recent content in Posts on berita by deuxly</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>berita.eu.org</copyright>
     <lastBuildDate>Sat, 10 Feb 2018 11:35:30 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://berita.eu.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coba Coba Ah</title>
-      <link>http://localhost:1313/posts/coba/</link>
+      <link>https://berita.eu.org/posts/coba/</link>
       <pubDate>Sat, 10 Feb 2018 11:35:30 +0700</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/posts/coba/</guid>
+      <guid>https://berita.eu.org/posts/coba/</guid>
       <description>Tenuit lenta alis tum sanguine verus inde Qualia modo mihi Stymphalides furor ac adulantes Lorem markdownum retinebat. Quod quem Atlas inposuit turaque erat.&#xA;Iram quod, ululatibus molimine utque, occurret et humus potitur Colchis manant; visa omnia generi duxit fallaci. Similisque repente valle nubila qua Inachis secura, nisi Oriente amans domus, adsueta. Ab litus oculos, iam, saevit, superabat cum violentam et possent inritus aera color est totidem iussa, ramos. Vota diversa! Tutus matri ferrum corpus, et mittit victum.</description>
     </item>
   </channel>

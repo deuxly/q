@@ -12,7 +12,7 @@ theme = "tailwind"
   contentTypeName = "posts"
 
   [params.header]
-    logo = "logo.webp"
+    logo = "logo.svg"
 
   [params.footer]
     since = 2023
