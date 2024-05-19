@@ -2,61 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>berita by deuxly</title>
-    <link>https://berita.eu.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on berita by deuxly</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>berita.eu.org</copyright>
-    <atom:link href="https://berita.eu.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 11:35:30 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coba Coba Ah</title>
+      <link>http://localhost:1313/posts/coba/</link>
+      <pubDate>Sat, 10 Feb 2018 11:35:30 +0700</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/posts/coba/</guid>
+      <description>Tenuit lenta alis tum sanguine verus inde Qualia modo mihi Stymphalides furor ac adulantes Lorem markdownum retinebat. Quod quem Atlas inposuit turaque erat.&#xA;Iram quod, ululatibus molimine utque, occurret et humus potitur Colchis manant; visa omnia generi duxit fallaci. Similisque repente valle nubila qua Inachis secura, nisi Oriente amans domus, adsueta. Ab litus oculos, iam, saevit, superabat cum violentam et possent inritus aera color est totidem iussa, ramos. Vota diversa! Tutus matri ferrum corpus, et mittit victum.</description>
+    </item>
     <item>
       <title></title>
-      <link>https://berita.eu.org/search/_index.es/</link>
+      <link>http://localhost:1313/search/_index.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://berita.eu.org/search/_index.es/</guid>
+      <guid>http://localhost:1313/search/_index.es/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://berita.eu.org/search/_index.fr/</link>
+      <link>http://localhost:1313/search/_index.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://berita.eu.org/search/_index.fr/</guid>
+      <guid>http://localhost:1313/search/_index.fr/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://berita.eu.org/search/_index.hi/</link>
+      <link>http://localhost:1313/search/_index.hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://berita.eu.org/search/_index.hi/</guid>
+      <guid>http://localhost:1313/search/_index.hi/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://berita.eu.org/search/_index.jp/</link>
+      <link>http://localhost:1313/search/_index.jp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://berita.eu.org/search/_index.jp/</guid>
+      <guid>http://localhost:1313/search/_index.jp/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://berita.eu.org/search/_index.pl/</link>
+      <link>http://localhost:1313/search/_index.pl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://berita.eu.org/search/_index.pl/</guid>
+      <guid>http://localhost:1313/search/_index.pl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://berita.eu.org/search/_index.ru/</link>
+      <link>http://localhost:1313/search/_index.ru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://berita.eu.org/search/_index.ru/</guid>
+      <guid>http://localhost:1313/search/_index.ru/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://berita.eu.org/search/_index.zh-cn/</link>
+      <link>http://localhost:1313/search/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://berita.eu.org/search/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/search/_index.zh-cn/</guid>
       <description></description>
     </item>
   </channel>
