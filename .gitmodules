@@ -1,3 +1,7 @@
 [submodule "themes/tailwind"]
 	path = themes/tailwind
 	url = https://github.com/tomowang/hugo-theme-tailwind.git
+[submodule "q"]
+	path = q
+	url = git@github.com:deuxly/q.git
+	branch = master
