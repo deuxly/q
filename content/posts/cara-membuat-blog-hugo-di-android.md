@@ -1,5 +1,5 @@
 ---
-title = 'Cara Membuat Blog Hugo Di Android'
+title = "Cara Membuat Blog Hugo Di Android"
 date = 2024-05-20T06:00:19Z
 draft = false
 ---
