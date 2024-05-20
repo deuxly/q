@@ -1,8 +1,8 @@
-+++
+---
 title = 'Tey'
 date = 2024-05-20T06:28:37Z
 draft = false
-+++
+---
 
 # Cara Membuat Blog Hugo di Android dengan Termux
 
